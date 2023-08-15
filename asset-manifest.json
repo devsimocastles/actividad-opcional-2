@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/actividad-opcional-2/static/css/main.28238d0c.css",
+    "main.js": "/actividad-opcional-2/static/js/main.5d4f7729.js",
+    "static/media/ps4.webp": "/actividad-opcional-2/static/media/ps4.7ccdd27209ff95fc2d4a.webp",
+    "index.html": "/actividad-opcional-2/index.html",
+    "main.28238d0c.css.map": "/actividad-opcional-2/static/css/main.28238d0c.css.map",
+    "main.5d4f7729.js.map": "/actividad-opcional-2/static/js/main.5d4f7729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28238d0c.css",
+    "static/js/main.5d4f7729.js"
+  ]
+}
