@@ -3,6 +3,7 @@ import Producto from "./components/Producto";
 
 
 function App() {
+
   return (
     <div className="App">
         <Producto
@@ -14,7 +15,9 @@ function App() {
           Gráficos impresionantes gracias a la GPU AMD Radeon y CPU AMD Jaguar de 8 núcleos
           Resolución máxima de 1920x1080 px para disfrutar de tus juegos en alta definición
           Conexión Bluetooth para dispositivos compatibles y experiencia inalámbrica"
-          precio="200.000$ "
+          precio="200.000$"
+          sku="001123488300"
+          stock="20"
         />
     </div>
   );
